@@ -1,5 +1,5 @@
 import sqlite3
-import teen
+import app.teen as teen
 
 def initDb():
   #Initialize a new database to store the teen's details

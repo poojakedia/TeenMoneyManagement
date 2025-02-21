@@ -3,8 +3,8 @@ from tkinter import ttk
 from tkinter import *
 from PIL import Image, ImageTk
 from tkcalendar import Calendar
-import teen
-import dbConnect
+import app.teen as teen
+import app.dbConnect as dbConnect
 import matplotlib.pyplot as plt
 import matplotlib, numpy, sys
 from matplotlib.backends.backend_tkagg import (FigureCanvasTkAgg, NavigationToolbar2Tk)

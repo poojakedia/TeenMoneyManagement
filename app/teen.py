@@ -1,4 +1,4 @@
-import dbConnect as db
+import app.dbConnect as db
 import datetime
 
 class Teen:
